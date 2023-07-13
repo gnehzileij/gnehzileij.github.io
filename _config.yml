@@ -104,4 +104,4 @@ theme: shoka
 deploy:
   type: git
   repo: https://github.com/gnehzileij/gnehzileij.github.io.git
-  branch: master
+  branch: main
